@@ -21,3 +21,18 @@
 ![](https://github.com/annamyaltsina/project/blob/master/DD6FAA05-69FC-4253-A9E9-88EB32077718.png)
 ![](https://github.com/annamyaltsina/project/blob/master/A23D1C3F-189A-4231-B076-FFAC4A73287D.png)
 ![](https://github.com/annamyaltsina/project/blob/master/3D832F3A-9C8D-47F9-B829-2BCB7D80BBF9.png)
+
+# 4 шаг: Gephi
+***Открываем*** ***лабараторию*** ***данных***
+
+Загружаем узелочки
+![](https://github.com/annamyaltsina/project/blob/master/AAFF3C1E-B010-4EF9-8435-CD24C49B2DF8.png)
+
+И загружаем ребрышки 
+![](https://github.com/annamyaltsina/project/blob/master/0BD9BCB8-86C2-4FA2-B3B2-AEB92DC2BE99.png)
+
+_Если_ _вместо_ _букв_ , _появляются_ _непонятные_ _символы_ - _меняем_ _кодировку_
+
+## Дело за малым - настраиваем шрифты, раскладку, проверяем, чтобы у узелочков были имена... VOILA!
+***Нам*** ***удалось*** ***создать*** ***схему*** ***взаимодействия*** ***персонажей***
+![](https://github.com/annamyaltsina/project/blob/master/2C55F325-CE51-45B9-92A2-A4CF2E352949.png)
