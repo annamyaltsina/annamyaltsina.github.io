@@ -6,7 +6,7 @@
 
 # 1 шаг: MyStem
 ***Лемматизируем*** ***текст*** ***для*** ***его*** ***обработки*** ***в*** ***других*** ***программах***
-![](https://github.com/annamyaltsina/project/blob/master/47EE0D95-B8FA-4AAF-A174-B6D60C2A3197.jpeg)
+![](https://github.com/annamyaltsina.github.io/project/blob/master/47EE0D95-B8FA-4AAF-A174-B6D60C2A3197.jpeg)
 
 # 2 шаг: AntConc
 ***Загружаем*** ***лемматизированный*** ***сценарий*** ***и*** ***применяем*** ***список*** ***стоп-слов***
