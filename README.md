@@ -29,7 +29,7 @@
 ![](https://github.com/annamyaltsina/project/blob/master/AAFF3C1E-B010-4EF9-8435-CD24C49B2DF8.png)
 
 И загружаем ребрышки 
-![](https://github.com/annamyaltsina/project/blob/master/0BD9BCB8-86C2-4FA2-B3B2-AEB92DC2BE99.png)
+![](https://github.com/annamyaltsina/annamyaltsina.github.io/blob/master/01EC9780-5B93-4B60-8A16-A7BDEB2EB782.png)
 
 _Если_ _вместо_ _букв_ , _появляются_ _непонятные_ _символы_ - _меняем_ _кодировку_
 
