@@ -1,6 +1,7 @@
 # Анализ сценария и характеристик персонажей "Криминального чтива"
 Проект выполнили Мяльцина Анна и Некипелова Анна
-
+[сайт на github pages.](https://annamyaltsina.github.io/index.html)
+[Красивая версия сайта здесь.](http://project1375935.tilda.ws/page6026599.html)
 # Всем сохранять спокойствие, это - цифровая граммотность!
 ![](https://github.com/annamyaltsina/project/blob/master/26F0B318-02F5-4399-BA67-3FB15B792E45.jpeg)
 
